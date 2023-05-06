@@ -9,6 +9,8 @@
   "author": "Lakshan Rukantha <64830641+LakshanRukantha@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
     "nodemon": "^2.0.22"
   }
 }
