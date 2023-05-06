@@ -1,9 +1,8 @@
 {
   "name": "telegram-nodejs-bot",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/index.js"
+    "start": "nodemon index.js"
   },
   "repository": "https://github.com/LakshanRukantha/telegram-nodejs-bot.git",
   "author": "Lakshan Rukantha <64830641+LakshanRukantha@users.noreply.github.com>",
